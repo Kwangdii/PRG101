@@ -27,3 +27,8 @@ print(my_list)
 
 my_repeated_list.clear() # Clearing all elements from the list
 print(my_repeated_list)
+
+
+#activity to replace true with false and false with true in the list
+my_list[5]= False
+print(my_list)
